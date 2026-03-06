@@ -1,3 +1,8 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/14324577-a3eb-43a9-8d64-1d9beed0c654" />
+
+
+
+
 📋 Lista de Tareas en Solana (Rust + Anchor)
 
 Este proyecto implementa un programa en la blockchain de Solana utilizando Rust y el framework Anchor.
