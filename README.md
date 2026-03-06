@@ -1,7 +1,3 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/14324577-a3eb-43a9-8d64-1d9beed0c654" />
-
-
-
 
 📋 Lista de Tareas en Solana (Rust + Anchor)
 
@@ -25,4 +21,4 @@ Fecha
 Prioridad
 Estado (completada o no)
 
-El propietario de la lista es el único que puede modificarla.
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/14324577-a3eb-43a9-8d64-1d9beed0c654" />
